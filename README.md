@@ -11,4 +11,4 @@ Frontend Project - description...
 
 ---
 
-Live Demo: [New Frontend Project](https://natesol.github.io/boilerplate-frontend-base/)
+Live Demo: [New Frontend Project](https://natesol.github.io/boilerplate-frontend-base/index.html)
